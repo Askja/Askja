@@ -38,7 +38,7 @@
 
 ### Hello, world! 👋
 
-My name is Amirall Egor, and I am a developer with a passion for technology. My code is my form of art, and my repositories are a gallery of my creations.
+My name is Amiral Egor, and I am a developer with a passion for technology. My code is my form of art, and my repositories are a gallery of my creations.
 
 #### 🚀 My Skills:
 
